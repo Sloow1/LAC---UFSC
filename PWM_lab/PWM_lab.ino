@@ -1,10 +1,10 @@
 #include <TimerOne.h>
 
-#define PINO_PWM 9           
+#define PINO_PWM 9                // PWM no pino digital 9 
 
 
-unsigned int  Fs = 331,          //setar frequencia em Hertz
-              dutyCycle = 50;   //setar dutyCycle entre 0 e 100%
+unsigned int  Fs = 331,           //setar frequencia em Hertz
+              dutyCycle = 50;     //setar dutyCycle entre 0 e 100%
         
 
 void setup() {
