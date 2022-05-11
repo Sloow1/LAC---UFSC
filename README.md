@@ -1,1 +1,1 @@
-# LAC---UFSC
+# LAC-UFSC
